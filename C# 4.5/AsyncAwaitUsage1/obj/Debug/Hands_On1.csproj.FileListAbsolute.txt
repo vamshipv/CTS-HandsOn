@@ -1,0 +1,7 @@
+C:\Users\vamshi\source\repos\Hands_On1\obj\Debug\Hands_On1.csproj.AssemblyReference.cache
+C:\Users\vamshi\source\repos\Hands_On1\obj\Debug\Hands_On1.csproj.CoreCompileInputs.cache
+C:\Users\vamshi\source\repos\Hands_On1\bin\Debug\Hands_On1.exe.config
+C:\Users\vamshi\source\repos\Hands_On1\bin\Debug\Hands_On1.exe
+C:\Users\vamshi\source\repos\Hands_On1\bin\Debug\Hands_On1.pdb
+C:\Users\vamshi\source\repos\Hands_On1\obj\Debug\Hands_On1.exe
+C:\Users\vamshi\source\repos\Hands_On1\obj\Debug\Hands_On1.pdb
