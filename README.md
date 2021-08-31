@@ -1,6 +1,4 @@
-# CTS-HandsOn
-
-- Available Hands-On
+# HandsOn Available
 
 > NUnit and MOQ
 
