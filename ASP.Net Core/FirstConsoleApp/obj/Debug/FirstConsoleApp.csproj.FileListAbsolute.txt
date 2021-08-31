@@ -1,0 +1,7 @@
+E:\0 Cognizant Hands-Ons\dotNet\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe.config
+E:\0 Cognizant Hands-Ons\dotNet\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe
+E:\0 Cognizant Hands-Ons\dotNet\FirstConsoleApp\bin\Debug\FirstConsoleApp.pdb
+E:\0 Cognizant Hands-Ons\dotNet\FirstConsoleApp\obj\Debug\FirstConsoleApp.csproj.AssemblyReference.cache
+E:\0 Cognizant Hands-Ons\dotNet\FirstConsoleApp\obj\Debug\FirstConsoleApp.csproj.CoreCompileInputs.cache
+E:\0 Cognizant Hands-Ons\dotNet\FirstConsoleApp\obj\Debug\FirstConsoleApp.exe
+E:\0 Cognizant Hands-Ons\dotNet\FirstConsoleApp\obj\Debug\FirstConsoleApp.pdb
