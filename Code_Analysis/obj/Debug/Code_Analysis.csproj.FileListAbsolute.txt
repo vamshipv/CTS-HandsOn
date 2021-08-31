@@ -1,0 +1,7 @@
+E:\1- Cognizant Hands-Ons\Code_Analysis\bin\Debug\Code_Analysis.exe.config
+E:\1- Cognizant Hands-Ons\Code_Analysis\bin\Debug\Code_Analysis.exe
+E:\1- Cognizant Hands-Ons\Code_Analysis\bin\Debug\Code_Analysis.pdb
+E:\1- Cognizant Hands-Ons\Code_Analysis\obj\Debug\Code_Analysis.csproj.AssemblyReference.cache
+E:\1- Cognizant Hands-Ons\Code_Analysis\obj\Debug\Code_Analysis.csproj.CoreCompileInputs.cache
+E:\1- Cognizant Hands-Ons\Code_Analysis\obj\Debug\Code_Analysis.exe
+E:\1- Cognizant Hands-Ons\Code_Analysis\obj\Debug\Code_Analysis.pdb
