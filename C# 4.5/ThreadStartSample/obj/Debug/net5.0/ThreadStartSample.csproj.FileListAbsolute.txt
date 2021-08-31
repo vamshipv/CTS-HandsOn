@@ -1,0 +1,16 @@
+E:\0 Cognizant Hands-Ons\c#\ThreadStartSample\bin\Debug\net5.0\ThreadStartSample.exe
+E:\0 Cognizant Hands-Ons\c#\ThreadStartSample\bin\Debug\net5.0\ThreadStartSample.deps.json
+E:\0 Cognizant Hands-Ons\c#\ThreadStartSample\bin\Debug\net5.0\ThreadStartSample.runtimeconfig.json
+E:\0 Cognizant Hands-Ons\c#\ThreadStartSample\bin\Debug\net5.0\ThreadStartSample.runtimeconfig.dev.json
+E:\0 Cognizant Hands-Ons\c#\ThreadStartSample\bin\Debug\net5.0\ThreadStartSample.dll
+E:\0 Cognizant Hands-Ons\c#\ThreadStartSample\bin\Debug\net5.0\ref\ThreadStartSample.dll
+E:\0 Cognizant Hands-Ons\c#\ThreadStartSample\bin\Debug\net5.0\ThreadStartSample.pdb
+E:\0 Cognizant Hands-Ons\c#\ThreadStartSample\obj\Debug\net5.0\ThreadStartSample.csproj.AssemblyReference.cache
+E:\0 Cognizant Hands-Ons\c#\ThreadStartSample\obj\Debug\net5.0\ThreadStartSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\0 Cognizant Hands-Ons\c#\ThreadStartSample\obj\Debug\net5.0\ThreadStartSample.AssemblyInfoInputs.cache
+E:\0 Cognizant Hands-Ons\c#\ThreadStartSample\obj\Debug\net5.0\ThreadStartSample.AssemblyInfo.cs
+E:\0 Cognizant Hands-Ons\c#\ThreadStartSample\obj\Debug\net5.0\ThreadStartSample.csproj.CoreCompileInputs.cache
+E:\0 Cognizant Hands-Ons\c#\ThreadStartSample\obj\Debug\net5.0\ThreadStartSample.dll
+E:\0 Cognizant Hands-Ons\c#\ThreadStartSample\obj\Debug\net5.0\ref\ThreadStartSample.dll
+E:\0 Cognizant Hands-Ons\c#\ThreadStartSample\obj\Debug\net5.0\ThreadStartSample.pdb
+E:\0 Cognizant Hands-Ons\c#\ThreadStartSample\obj\Debug\net5.0\ThreadStartSample.genruntimeconfig.cache

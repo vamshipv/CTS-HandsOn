@@ -1,0 +1,16 @@
+E:\0 Cognizant Hands-Ons\c#\ConsoleApp-OptionalParameters\bin\Debug\net5.0\ConsoleApp-OptionalParameters.exe
+E:\0 Cognizant Hands-Ons\c#\ConsoleApp-OptionalParameters\bin\Debug\net5.0\ConsoleApp-OptionalParameters.deps.json
+E:\0 Cognizant Hands-Ons\c#\ConsoleApp-OptionalParameters\bin\Debug\net5.0\ConsoleApp-OptionalParameters.runtimeconfig.json
+E:\0 Cognizant Hands-Ons\c#\ConsoleApp-OptionalParameters\bin\Debug\net5.0\ConsoleApp-OptionalParameters.runtimeconfig.dev.json
+E:\0 Cognizant Hands-Ons\c#\ConsoleApp-OptionalParameters\bin\Debug\net5.0\ConsoleApp-OptionalParameters.dll
+E:\0 Cognizant Hands-Ons\c#\ConsoleApp-OptionalParameters\bin\Debug\net5.0\ref\ConsoleApp-OptionalParameters.dll
+E:\0 Cognizant Hands-Ons\c#\ConsoleApp-OptionalParameters\bin\Debug\net5.0\ConsoleApp-OptionalParameters.pdb
+E:\0 Cognizant Hands-Ons\c#\ConsoleApp-OptionalParameters\obj\Debug\net5.0\ConsoleApp-OptionalParameters.csproj.AssemblyReference.cache
+E:\0 Cognizant Hands-Ons\c#\ConsoleApp-OptionalParameters\obj\Debug\net5.0\ConsoleApp-OptionalParameters.GeneratedMSBuildEditorConfig.editorconfig
+E:\0 Cognizant Hands-Ons\c#\ConsoleApp-OptionalParameters\obj\Debug\net5.0\ConsoleApp-OptionalParameters.AssemblyInfoInputs.cache
+E:\0 Cognizant Hands-Ons\c#\ConsoleApp-OptionalParameters\obj\Debug\net5.0\ConsoleApp-OptionalParameters.AssemblyInfo.cs
+E:\0 Cognizant Hands-Ons\c#\ConsoleApp-OptionalParameters\obj\Debug\net5.0\ConsoleApp-OptionalParameters.csproj.CoreCompileInputs.cache
+E:\0 Cognizant Hands-Ons\c#\ConsoleApp-OptionalParameters\obj\Debug\net5.0\ConsoleApp-OptionalParameters.dll
+E:\0 Cognizant Hands-Ons\c#\ConsoleApp-OptionalParameters\obj\Debug\net5.0\ref\ConsoleApp-OptionalParameters.dll
+E:\0 Cognizant Hands-Ons\c#\ConsoleApp-OptionalParameters\obj\Debug\net5.0\ConsoleApp-OptionalParameters.pdb
+E:\0 Cognizant Hands-Ons\c#\ConsoleApp-OptionalParameters\obj\Debug\net5.0\ConsoleApp-OptionalParameters.genruntimeconfig.cache
