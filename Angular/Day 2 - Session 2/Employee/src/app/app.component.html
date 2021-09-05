@@ -1,0 +1,14 @@
+<style>
+  body { font-family: Segoe UI, Arial }
+  a {text-decoration: none;}
+  a:visited { color: blue }
+  a:active {border-bottom: Solid 2px blue}
+</style>
+<h2>Angular Learning
+<a [routerLink] = "['/']">View Employee</a> ||
+<a [routerLink] = "['/EditEmployee']">Edit Employee</a> ||
+<a [routerLink] = "['/QuantityIncrement']">Quantity Increment</a>
+</h2>
+<router-outlet></router-outlet>
+<!-- <app-quantity-increment></app-quantity-increment>
+<app-edit-employee></app-edit-employee> -->

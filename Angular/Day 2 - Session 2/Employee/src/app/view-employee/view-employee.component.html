@@ -1,0 +1,17 @@
+<p>view-employee works!</p>
+<h1>Employee Details</h1>
+<p><strong>Id:</strong> {{ Id }}</p>
+<p><strong>Name:</strong> {{ Name }}</p>
+<p><strong>Salary:</strong>{{ Salary | currency:"INR" }}</p>
+<!-- ngIf -->
+<p><span *ngIf="Permanent"><strong>Permanent:</strong> Yes </span></p>
+<p><strong>Department Id:</strong> {{ DepartmentId }}</p>
+<p><strong>Department Name:</strong> {{ DepartmentName }}</p>
+<p><strong>Skills</strong></p>
+<p><strong>Skills Id  Skill Name</strong></p>
+<ol type="1">
+    <!-- ngFor -->
+    <li *ngFor="let item of Skills">{{item}}</li>
+</ol>
+
+<p><strong>Date of Birth:</strong> {{ Dob | date }}</p>
