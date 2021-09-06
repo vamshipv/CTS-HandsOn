@@ -1,0 +1,14 @@
+<p>quantity-increment works!</p>
+<p>Button Click Event</p>
+
+<button (click) = "button()">Click Me</button>
+<br>
+<br>
+<br>
+{{IncrementResult}}
+<input type="text" value="{{Numbers}}"><button (click) = "Add()">Add</button>
+<br>
+<br>
+<input type="submit" value="-" (click) = "Decrement()" [disabled] = "flag">
+<input type="text" value="{{AddandSub}}">
+<input type="submit" value="+" (click) = "Increment()">
