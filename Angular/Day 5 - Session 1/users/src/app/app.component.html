@@ -1,0 +1,21 @@
+<form>
+  Id: <input type="number" [(ngModel)]="id">
+  Email: <input type="text" [(ngModel)]="email">
+  First Name: <input type="text" [(ngModel)]="first_name">
+  Last Name: <input type="text" [(ngModel)]="last_name">
+  <input type="submit" value="Post Data" (click)="postData()">
+</form>
+
+
+
+<button (click)="getData()">Get Data</button>
+
+<ul *ngFor="let data of userData">
+  <li>{{ data.id }}</li>
+  <li>{{ data.email }}</li>
+  <li>{{ data.first_name }}</li>
+  <li>{{ data.last_name }}</li>
+  <li>{{ data.avatar }}</li>
+</ul>
+
+<router-outlet></router-outlet>
