@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "JVunNqDLSF+OnqlW5yWlx/U0wUfchRVz2PNc/VDFO/Gw9IkMjP3CMLRzuWtUzmcoDIkMYajruIHdkiBcVR7pww==",
+  "success": true,
+  "projectFilePath": "E:\\0 Cognizant Hands-Ons\\dotNet\\WebApi-HandsOn4\\WebApi-HandsOn4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vamshi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\vamshi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\vamshi\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\vamshi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\vamshi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\vamshi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
